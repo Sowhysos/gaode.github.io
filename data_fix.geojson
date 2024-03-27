@@ -1,0 +1,822 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": "1",
+        "Name": "金陵寺",
+        "kind": "9180",
+        "address": "朱台镇南高阳村",
+        "url": "https://img0.baidu.com/it/u=2855299179,1220279390&fm=253&fmt=auto&app=138&f=JPEG?w=886&h=500",
+        "stars": "古迹",
+        "ticket": "免费"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.20032,
+          36.92403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": "2",
+        "Name": "淄博市牛山禅寺",
+        "kind": "9180",
+        "address": "齐陵街道北山西村99号管仲纪念馆",
+        "url": "http://store.is.autonavi.com/showpic/chinesetemples?operate=merge&w=160&h=150&position=5",
+        "stars": "古迹",
+        "ticket": "免费"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.35203,
+          36.79485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": "3",
+        "Name": "孔子闻韶处",
+        "kind": "9080",
+        "address": " 齐韶路与齐富路交叉口南260米",
+        "url": "https://tse3-mm.cn.bing.net/th/id/OIP-C.5mWfBnkpEZDugtovCisbyAHaFj?w=234&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "stars": "古迹",
+        "ticket": "免费"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.36956,
+          36.86059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": "4",
+        "Name": "太公湖水利风景区",
+        "kind": "9080",
+        "address": " 临淄大道淄河大桥西北首",
+        "url": "https://img1.baidu.com/it/u=2521659806,155717837&fm=253&fmt=auto&app=120&f=JPEG?w=390&h=259",
+        "stars": "风景区",
+        "ticket": "免费"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.37211,
+          36.8134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": "5",
+        "Name": "齐故城排水道口",
+        "kind": "9080",
+        "address": "古侯路与045乡道交叉口北100米",
+        "url": "https://img2.baidu.com/it/u=3521201879,3431540523&fm=253&fmt=auto&app=138&f=JPEG?w=550&h=350",
+        "stars": "古迹",
+        "ticket": "免费"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.34379,
+          36.89054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": "6",
+        "Name": "营丘城故址",
+        "kind": "9080",
+        "address": "张皇路7号 ",
+        "url": "https://img1.baidu.com/it/u=2818913421,3679092829&fm=253&fmt=auto&app=138&f=JPEG?w=554&h=323",
+        "stars": "古迹",
+        "ticket": "免费"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.37106,
+          36.8771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": "7",
+        "Name": "齐相晏平仲之墓",
+        "kind": "9080",
+        "address": "东环路与文化园路交汇处东100米 ",
+        "url": "https://img0.baidu.com/it/u=1216711715,3076481707&fm=253&fmt=auto&app=138&f=JPEG?w=740&h=500",
+        "stars": "古迹",
+        "ticket": "免费"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.3484,
+          36.87127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": "8",
+        "Name": "临淄石刻馆",
+        "kind": "9080",
+        "address": " 045乡道与张皇路交叉口东南340米",
+        "url": "https://img0.baidu.com/it/u=2748052535,1200139566&fm=253&fmt=auto&app=120&f=JPEG?w=864&h=486",
+        "stars": "古迹",
+        "ticket": "免费"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.34285,
+          36.85672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": "9",
+        "Name": "西天寺造像",
+        "kind": "9080",
+        "address": "045乡道与张皇路交叉口东南340米 ",
+        "url": "https://img0.baidu.com/it/u=2897363727,259142514&fm=253&fmt=auto&app=138&f=JPEG?w=655&h=434",
+        "stars": "古迹",
+        "ticket": "免费"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.34285,
+          36.85672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": "10",
+        "Name": "临淄青年学生抗日志愿军训团纪念碑",
+        "kind": "9080",
+        "address": "045乡道与张皇路交叉口东南380米 ",
+        "url": "https://img2.baidu.com/it/u=2946194797,1465161268&fm=253&fmt=auto&app=138&f=JPG?w=732&h=500",
+        "stars": "纪念碑",
+        "ticket": "免费"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.34285,
+          36.85672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": "11",
+        "Name": "稷下学宫遗址",
+        "kind": "9080",
+        "address": "张皇路与遄台路交叉口东南200米",
+        "url": "https://img2.baidu.com/it/u=3275940655,2960260783&fm=253&fmt=auto&app=138&f=JPEG?w=667&h=500",
+        "stars": "古迹",
+        "ticket": "免费"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.33308,
+          36.86292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": "12",
+        "Name": "齐国故城城垣遗址",
+        "kind": "9080",
+        "address": " 045乡道西50米",
+        "url": "https://img1.baidu.com/it/u=3558835309,1694064035&fm=253&fmt=auto&app=138&f=JPEG?w=400&h=300",
+        "stars": "古迹",
+        "ticket": "免费"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.34214,
+          36.86905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": "13",
+        "Name": "炒米山生态风景区",
+        "kind": "9080",
+        "address": "炒米村",
+        "url": "https://img2.baidu.com/it/u=1047690964,2682544646&fm=253&fmt=auto&app=138&f=JPEG?w=499&h=277",
+        "stars": "风景区",
+        "ticket": "建设中"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.13211,
+          36.76307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": "14",
+        "Name": "石佛寺",
+        "kind": "9180",
+        "address": "长周路",
+        "url": "https://img0.baidu.com/it/u=3822303296,2923555475&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500",
+        "stars": "古迹",
+        "ticket": "免费"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.86263,
+          36.67508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": "15",
+        "Name": "中国陶瓷馆",
+        "kind": "9080",
+        "address": "西四路119号",
+        "url": "https://img2.baidu.com/it/u=2126019049,2024699887&fm=253&fmt=auto&app=138&f=JPEG?w=570&h=321",
+        "stars": "展览馆",
+        "ticket": "免费"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.04067,
+          36.80313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": "16",
+        "Name": "齐园",
+        "kind": "9080",
+        "address": "牛山路",
+        "url": "https://img0.baidu.com/it/u=532633002,1300954505&fm=253&fmt=auto&app=138&f=JPEG?w=800&h=1741",
+        "stars": "公园",
+        "ticket": "免费"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.29143,
+          36.80749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": "17",
+        "Name": "姜太公祠",
+        "kind": "9080",
+        "address": "桓公路292号",
+        "url": "https://img0.baidu.com/it/u=463427956,2390642344&fm=253&fmt=auto&app=138&f=JPEG?w=667&h=500",
+        "stars": "古迹",
+        "ticket": "10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.32088,
+          36.80987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": "18",
+        "Name": "临淄齐国历史博物馆",
+        "kind": "9080",
+        "address": "临淄大道308号",
+        "url": "https://img2.baidu.com/it/u=1995601652,2990008520&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=667",
+        "stars": "展览馆",
+        "ticket": "免费"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.35042,
+          36.85929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": "19",
+        "Name": "千佛寺",
+        "kind": "9180",
+        "address": "新建中路1号周村古商城内(北侧)",
+        "url": "https://img1.baidu.com/it/u=754022125,2875485237&fm=253&fmt=auto&app=138&f=JPEG?w=665&h=500",
+        "stars": "古迹",
+        "ticket": "10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.84081,
+          36.80096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": "20",
+        "Name": "周村古商城景区",
+        "kind": "9080",
+        "address": "新建中路1号",
+        "url": "https://img0.baidu.com/it/u=1413226280,445029312&fm=253&fmt=auto&app=138&f=JPEG?w=667&h=500",
+        "stars": "古迹",
+        "ticket": "60"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.84207,
+          36.80066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": "21",
+        "Name": "管仲纪念馆",
+        "kind": "9080",
+        "address": "齐陵街道北山西村99号",
+        "url": "https://img0.baidu.com/it/u=842197727,3547554323&fm=253&fmt=auto&app=120&f=JPEG?w=1139&h=640",
+        "stars": "古迹",
+        "ticket": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.3518,
+          36.79386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": "22",
+        "Name": "淄博萌山湖荷花生态园",
+        "kind": "9080",
+        "address": "萌山东1公里处",
+        "url": "https://img0.baidu.com/it/u=2872979701,3947948061&fm=253&fmt=auto&app=138&f=PNG?w=694&h=500",
+        "stars": "风景区",
+        "ticket": "免费"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.90488,
+          36.71223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": "23",
+        "Name": "八卦楼",
+        "kind": "9080",
+        "address": "芙蓉街1",
+        "url": "https://img1.baidu.com/it/u=160767029,60320569&fm=253&fmt=auto&app=138&f=JPEG?w=720&h=480",
+        "stars": "古迹",
+        "ticket": "免费"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.84036,
+          36.79575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": "24",
+        "Name": "玉黛湖生态乡村庄园",
+        "kind": "9080",
+        "address": "东郊6公里309国道北侧 ",
+        "url": "https://img0.baidu.com/it/u=2722209777,180233947&fm=253&fmt=auto&app=120&f=JPEG?w=800&h=475",
+        "stars": "风景区",
+        "ticket": "60"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.14484,
+          36.80616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": "25",
+        "Name": "望月楼",
+        "kind": "9080",
+        "address": "银子市街52号-4号",
+        "url": "https://img1.baidu.com/it/u=1969084056,601177901&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=551",
+        "stars": "古迹",
+        "ticket": "免费"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.84164,
+          36.7959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": "26",
+        "Name": "周村古商城-杨家大院",
+        "kind": "9080",
+        "address": "银子市街128",
+        "url": "https://img0.baidu.com/it/u=1656571825,3720063768&fm=253&fmt=auto&app=138&f=JPEG?w=749&h=500",
+        "stars": "古迹",
+        "ticket": "20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.84218,
+          36.79662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": "27",
+        "Name": "黑铁山风景区",
+        "kind": "9080",
+        "address": "卫固镇太平村",
+        "url": "https://img2.baidu.com/it/u=397683197,1249108390&fm=253&fmt=auto&app=138&f=JPEG?w=333&h=500",
+        "stars": "风景区",
+        "ticket": "免费"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.16065,
+          36.8439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": "28",
+        "Name": "大染坊",
+        "kind": "9080",
+        "address": "银子市街90",
+        "url": "https://img2.baidu.com/it/u=2311878198,2398000838&fm=253&fmt=auto&app=120&f=JPEG?w=1199&h=800",
+        "stars": "古迹",
+        "ticket": "20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.84169,
+          36.79627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": "29",
+        "Name": "大德通票号",
+        "kind": "9080",
+        "address": "银子市街131",
+        "url": "https://img1.baidu.com/it/u=1800828554,1960064641&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=667",
+        "stars": "古迹",
+        "ticket": "10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.84193,
+          36.79674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": "30",
+        "Name": "张店天主教堂",
+        "kind": "9201",
+        "address": "杏园东路10",
+        "url": "https://img2.baidu.com/it/u=85794417,364580988&fm=253&fmt=auto&app=120&f=JPEG?w=1067&h=800",
+        "stars": "欧式建筑",
+        "ticket": "免费"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.05981,
+          36.78943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": "31",
+        "Name": "碧霞祠",
+        "kind": "9180",
+        "address": " 秋谷路与中心路交叉口南240米",
+        "url": "https://img2.baidu.com/it/u=663482238,1371730562&fm=253&fmt=auto&app=120&f=JPEG?w=1417&h=800",
+        "stars": "古迹",
+        "ticket": "免费"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.11765,
+          36.82217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": "32",
+        "Name": "花山玉清宫",
+        "kind": "9180",
+        "address": " 花山景区内",
+        "url": "https://img1.baidu.com/it/u=891780632,1870201973&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=277",
+        "stars": "古迹",
+        "ticket": "免费"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.12219,
+          36.82402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": "33",
+        "Name": "萌山公园",
+        "kind": "9080",
+        "address": "周村南9公里处",
+        "url": "https://img2.baidu.com/it/u=2410943463,2258716502&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=281",
+        "stars": "风景区",
+        "ticket": "10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.88589,
+          36.70985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": "34",
+        "Name": "天主教会",
+        "kind": "9201",
+        "address": "马路街61",
+        "url": "https://img2.baidu.com/it/u=1053062751,2911143601&fm=253&fmt=auto&app=138&f=JPEG?w=667&h=500",
+        "stars": "欧式建筑",
+        "ticket": "免费"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.85173,
+          36.79581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": "35",
+        "Name": "状元府",
+        "kind": "9080",
+        "address": "丝市街",
+        "url": "https://img0.baidu.com/it/u=1983763836,3539280099&fm=253&fmt=auto&app=120&f=JPEG?w=776&h=500",
+        "stars": "古迹",
+        "ticket": "10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.8425,
+          36.79824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": "36",
+        "Name": "文昌阁",
+        "kind": "9080",
+        "address": "南下河街",
+        "url": "https://img0.baidu.com/it/u=1032558718,4133113010&fm=253&fmt=auto&app=120&f=JPEG?w=1130&h=637",
+        "stars": "古迹",
+        "ticket": "免费"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.83881,
+          36.7984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": "37",
+        "Name": "淄博清真寺",
+        "kind": "9203",
+        "address": "铁南路",
+        "url": "https://img1.baidu.com/it/u=1748047640,3375432434&fm=253&fmt=auto&app=138&f=JPEG?w=496&h=373",
+        "stars": "古迹",
+        "ticket": "免费"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.04618,
+          36.78784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": "38",
+        "Name": "九顶莲花山",
+        "kind": "9080",
+        "address": "东里镇下柳沟村",
+        "url": "https://img1.baidu.com/it/u=2990594206,528530096&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=750",
+        "stars": "风景区",
+        "ticket": "40"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.37739,
+          36.00448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": "39",
+        "Name": "吉田园",
+        "kind": "9080",
+        "address": " 昌国路与西七路路口南家小区32号",
+        "url": "https://img2.baidu.com/it/u=3471197740,1962222771&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=375",
+        "stars": "风景区",
+        "ticket": "免费"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.02811,
+          36.77444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": "40",
+        "Name": "魁星阁",
+        "kind": "9080",
+        "address": "银子市街",
+        "url": "https://img2.baidu.com/it/u=2774591323,2237651683&fm=253&fmt=auto&app=138&f=JPEG?w=750&h=500",
+        "stars": "古迹",
+        "ticket": "免费"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.84194,
+          36.79606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": "41",
+        "Name": "王母台",
+        "kind": "9180",
+        "address": "尚军路花山公园",
+        "url": "https://img1.baidu.com/it/u=2970261673,1583981893&fm=253&fmt=auto&app=120&f=JPEG?w=667&h=500",
+        "stars": "古迹",
+        "ticket": "免费"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.11782,
+          36.82374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": "42",
+        "Name": "中国临淄东周殉马馆",
+        "kind": "9080",
+        "address": "齐都镇河崖头村中国临淄东周殉马馆附近",
+        "url": "https://img2.baidu.com/it/u=375091179,1820831822&fm=253&fmt=auto&app=138&f=JPEG?w=640&h=391",
+        "stars": "古迹",
+        "ticket": "20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.37589,
+          36.88618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": "43",
+        "Name": "临淄中国古车博物馆",
+        "kind": "9080",
+        "address": "齐陵镇后李村188号",
+        "url": "https://img2.baidu.com/it/u=2214859001,1303942923&fm=253&fmt=auto&app=138&f=JPEG?w=756&h=500",
+        "stars": "展览馆",
+        "ticket": "40"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.38659,
+          36.83645
+        ]
+      }
+    }
+  ]
+}
